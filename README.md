@@ -1,13 +1,10 @@
-## A full stack web3 on-chain blog and CMS
-
-> This codebase goes along with my tutorial [The Complete Guide To Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
-
+## A full stack web3 on-chain hackathon teamup system
 To deploy this app:
 
 1. Clone this repository
 
 ```sh
-git clone git@github.com:dabit3/full-stack-web3.git
+git clone https://github.com/DeepakSilaych/hackon.git
 ```
 
 2. Install the dependencies
